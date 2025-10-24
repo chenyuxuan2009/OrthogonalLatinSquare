@@ -8,6 +8,8 @@
 
 代码编写者：chenyuxuan2009
 
+使用方法参考 test.cpp.
+
 This repository contains a C++ implementation for constructing a pair of **Orthogonal Latin Squares (OLS)**.
 
 A pair of orthogonal Latin squares satisfies the following condition:
@@ -17,4 +19,8 @@ A pair of orthogonal Latin squares satisfies the following condition:
 This project implements the construction method described [here](https://www.zhihu.com/question/1964254729556170187/answer/1964473533217347184).
 
 Code author: chenyuxuan2009
+
+Usage examples can be found in test.cpp.
+
+
 
