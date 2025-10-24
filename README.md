@@ -7,9 +7,7 @@
 
 尤其感谢 [MatrixGroup](https://www.luogu.com.cn/user/483824) 和 [Leo_lele](https://www.luogu.com.cn/user/516831) 的指导。
 
-有很多想说的，就不在此发表了。
-
-## Window 1
+有很多想说的，就不在此发表了。见我的博客吧。
 
 - [[笔记] 关于正交拉丁方的构造与应用 - 沉石鱼惊旋 的博客](https://blog.cyx2009.top/archives/OLS/)
 
